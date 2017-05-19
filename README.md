@@ -22,8 +22,6 @@ As a basis for this home task, you’ll need to create a git repository on git.e
 * Create new “develop” branch and push 2 commits to it;
 * Merge “develop” branch to “master” branch;
 
-```
-
 2. Git advanced actions:
 * Add 2 additional commits to "develop" branch, and 1 additional commit to “master”. Rebase "develop" with new commits from "master";
 * Add 2 additional commits to “develop” branch. Cherry-pick the first commit to “master”. Revert the second commit; 
