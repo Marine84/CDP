@@ -28,6 +28,5 @@ As a basis for this home task, you’ll need to create a git repository on git.e
 
 
 ## Remote repository
-```
+
 * [GitHub](https://github.com/Marine84/CDP.git) 
-```
